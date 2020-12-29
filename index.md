@@ -2,4 +2,4 @@
 
 [MediaRecord](https://github.com/chunyuan27/blog/blob/main/mediarecord/mediarecord.md)
 
-[JAVA](ttps://github.com/chunyuan27/blog/blob/main/java/Parcel.md)
+[JAVA](https://github.com/chunyuan27/blog/blob/main/java/Parcel.md)
